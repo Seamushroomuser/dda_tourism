@@ -5,7 +5,7 @@ function monumental(){
     window.location = "monumental.html";
 }
 function amusementParks(){
-    window.location = "amusementParks.html";
+    window.location = "AmusementParks.html";
 }
 function countrySide(){
     window.location = "country side.html";
